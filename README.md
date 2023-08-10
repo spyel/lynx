@@ -1,1 +1,1 @@
-# lynx
+# Lynx - the programming language
